@@ -82,7 +82,7 @@ body{
     padding: 10px;
     border-radius: 30px;
     cursor: pointer;
-      border: solid #A435F0 1px ;
+    border: solid #A435F0 1px ;
 }
 
 .categories p:hover{
@@ -108,7 +108,7 @@ body{
     padding: 2%;
     position: absolute;
     top: 10%;
-    left: 10%;
+    left: 3%;
     animation-name: zoom;
     animation-duration: 2s;
     opacity: 0;
